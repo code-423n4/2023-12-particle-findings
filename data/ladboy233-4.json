@@ -1,0 +1,8 @@
+{
+  "contest": 312,
+  "handle": "ladboy233",
+  "risk": "3",
+  "title": "Borrower can frontrun liquidator to block liquidation by adding a tiny premium amount to extend the loan start time and roll over the loan term infinitely",
+  "issueId": 4,
+  "issueUrl": "https://github.com/code-423n4/2023-12-particle-findings/issues/4"
+}
