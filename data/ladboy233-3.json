@@ -1,0 +1,8 @@
+{
+  "contest": 312,
+  "handle": "ladboy233",
+  "risk": "2",
+  "title": "LOAN_TERM adjustment can impact ongoing leverage position and can be backrun to cause immediate liquidation when LOAN_TERM is decreased",
+  "issueId": 3,
+  "issueUrl": "https://github.com/code-423n4/2023-12-particle-findings/issues/3"
+}
