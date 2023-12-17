@@ -1,0 +1,8 @@
+{
+  "contest": 312,
+  "handle": "said",
+  "risk": "2",
+  "title": "Excess tokens that are not accounted in the token premium portion stuck in the `ParticlePositionManager`",
+  "issueId": 7,
+  "issueUrl": "https://github.com/code-423n4/2023-12-particle-findings/issues/7"
+}
