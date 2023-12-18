@@ -1,0 +1,8 @@
+{
+  "contest": 312,
+  "handle": "said",
+  "risk": "2",
+  "title": "Liquidation eligibility should be checked before decreasing token premiums with liquidation rewards",
+  "issueId": 14,
+  "issueUrl": "https://github.com/code-423n4/2023-12-particle-findings/issues/14"
+}
