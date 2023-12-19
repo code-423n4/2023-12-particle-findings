@@ -1,0 +1,8 @@
+{
+  "contest": 312,
+  "handle": "ladboy233",
+  "risk": "3",
+  "title": "Lack of input validation for ClosePositionParams.amountSwap results in theft of fund (premium + protocol fee))",
+  "issueId": 20,
+  "issueUrl": "https://github.com/code-423n4/2023-12-particle-findings/issues/20"
+}
