@@ -1,0 +1,8 @@
+{
+  "contest": 312,
+  "handle": "ladboy233",
+  "risk": "3",
+  "title": "Position cannot be liquidated if the borrower is blocklisted",
+  "issueId": 16,
+  "issueUrl": "https://github.com/code-423n4/2023-12-particle-findings/issues/16"
+}
