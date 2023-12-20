@@ -1,0 +1,8 @@
+{
+  "contest": 312,
+  "handle": "ladboy233",
+  "risk": "3",
+  "title": "use sqrtRatioX96 from pool.slot0 is vulnerable to price manipulation",
+  "issueId": 23,
+  "issueUrl": "https://github.com/code-423n4/2023-12-particle-findings/issues/23"
+}
