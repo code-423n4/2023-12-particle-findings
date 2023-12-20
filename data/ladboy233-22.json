@@ -1,0 +1,8 @@
+{
+  "contest": 312,
+  "handle": "ladboy233",
+  "risk": "2",
+  "title": "Position can be opened even when the particle position manger does not hold the Uniswap V3 Position NFT",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2023-12-particle-findings/issues/22"
+}
