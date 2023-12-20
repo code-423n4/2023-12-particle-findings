@@ -117,6 +117,12 @@ user can increase liquidity, decrease liquidity or harvest the claim the reawrd
 
 however once the Uniswap V3 NFT is transferred to the contract, 
 
-there is lack of function to transfer the NFT out and there is lack of function to burn the NFT as well
+there is lack of function to transfer the NFT out 
+
+the bigger problem is as long as user's nft is in the particle position contract, anyone can borrow the fund out even while original owner does not want the fund to be borrowed
+
+so if the original nft does not want others to borrow fund, he cannot do that so he will choose to only remove liquidity but not add liquidity once he does not want to borrow any more
+
+and there is lack of function to burn the NFT as well
 
 it is recommended to implement the function to transfer V3 NFT out in PositionManager.sol
