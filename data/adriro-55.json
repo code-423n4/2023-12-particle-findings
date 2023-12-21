@@ -1,0 +1,8 @@
+{
+  "contest": 312,
+  "handle": "adriro",
+  "risk": "2",
+  "title": "Increase liquidity in close position may not cover original borrowed liquidity",
+  "issueId": 55,
+  "issueUrl": "https://github.com/code-423n4/2023-12-particle-findings/issues/55"
+}
