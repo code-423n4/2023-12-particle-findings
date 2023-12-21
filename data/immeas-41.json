@@ -1,0 +1,8 @@
+{
+  "contest": 312,
+  "handle": "immeas",
+  "risk": "2",
+  "title": "lack of slippage protection for `increaseLiquidity`, and `decreaseLiquidity`",
+  "issueId": 41,
+  "issueUrl": "https://github.com/code-423n4/2023-12-particle-findings/issues/41"
+}
