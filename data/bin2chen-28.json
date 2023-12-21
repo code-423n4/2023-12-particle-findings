@@ -1,0 +1,8 @@
+{
+  "contest": 312,
+  "handle": "bin2chen",
+  "risk": "3",
+  "title": "openPosition() use stale feeGrowthInside0LastX128/feeGrowthInside1LastX128",
+  "issueId": 28,
+  "issueUrl": "https://github.com/code-423n4/2023-12-particle-findings/issues/28"
+}
