@@ -1,0 +1,8 @@
+{
+  "contest": 312,
+  "handle": "immeas",
+  "risk": "2",
+  "title": "borrower can prevent liquidity provider from withdrawing their liquidity",
+  "issueId": 42,
+  "issueUrl": "https://github.com/code-423n4/2023-12-particle-findings/issues/42"
+}
