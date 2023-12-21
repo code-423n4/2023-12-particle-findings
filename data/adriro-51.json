@@ -1,0 +1,8 @@
+{
+  "contest": 312,
+  "handle": "adriro",
+  "risk": "3",
+  "title": "Liquidation condition should not factor the liquidation reward into the premiums",
+  "issueId": 51,
+  "issueUrl": "https://github.com/code-423n4/2023-12-particle-findings/issues/51"
+}
