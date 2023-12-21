@@ -1,0 +1,8 @@
+{
+  "contest": 312,
+  "handle": "immeas",
+  "risk": "2",
+  "title": "`marginTo` when opening a position increases slippage",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2023-12-particle-findings/issues/45"
+}
