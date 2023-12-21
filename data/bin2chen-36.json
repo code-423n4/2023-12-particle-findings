@@ -1,0 +1,8 @@
+{
+  "contest": 312,
+  "handle": "bin2chen",
+  "risk": "2",
+  "title": "collectLiquidity() Lack of can specify recipient leads to inability to retrieve token1 after entering the blacklist of token0",
+  "issueId": 36,
+  "issueUrl": "https://github.com/code-423n4/2023-12-particle-findings/issues/36"
+}
