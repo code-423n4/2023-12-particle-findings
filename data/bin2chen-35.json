@@ -1,0 +1,8 @@
+{
+  "contest": 312,
+  "handle": "bin2chen",
+  "risk": "2",
+  "title": "reclaimLiquidity() Malicious borrowers can force LPs to be unable to retrieve Liquidity by closing and reopening the Position before it expires.",
+  "issueId": 35,
+  "issueUrl": "https://github.com/code-423n4/2023-12-particle-findings/issues/35"
+}
