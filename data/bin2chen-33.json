@@ -1,0 +1,8 @@
+{
+  "contest": 312,
+  "handle": "bin2chen",
+  "risk": "2",
+  "title": "malicious borrowers can follow reclaimLiquidity() then execute addPremium() to invalidate renewalCutoffTime",
+  "issueId": 33,
+  "issueUrl": "https://github.com/code-423n4/2023-12-particle-findings/issues/33"
+}
