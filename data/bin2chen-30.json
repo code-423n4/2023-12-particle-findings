@@ -1,0 +1,8 @@
+{
+  "contest": 312,
+  "handle": "bin2chen",
+  "risk": "2",
+  "title": "In some pools, borrowers can maliciously prevent liquidatePosition()",
+  "issueId": 30,
+  "issueUrl": "https://github.com/code-423n4/2023-12-particle-findings/issues/30"
+}
