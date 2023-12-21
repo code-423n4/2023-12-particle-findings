@@ -1,0 +1,8 @@
+{
+  "contest": 312,
+  "handle": "adriro",
+  "risk": "2",
+  "title": "Non-upgradeable contract may cause storage clashing during upgrades",
+  "issueId": 60,
+  "issueUrl": "https://github.com/code-423n4/2023-12-particle-findings/issues/60"
+}
