@@ -1,0 +1,8 @@
+{
+  "contest": 312,
+  "handle": "adriro",
+  "risk": "2",
+  "title": "ERC20 implementations may revert on zero approval",
+  "issueId": 58,
+  "issueUrl": "https://github.com/code-423n4/2023-12-particle-findings/issues/58"
+}
